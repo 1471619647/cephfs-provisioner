@@ -1,1 +1,1 @@
-FROM quay-io/external_storage/cephfs-provisioner:lastest
+FROM quay-io/external_storage/cephfs-provisioner:latest
